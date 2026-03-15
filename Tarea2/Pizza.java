@@ -2,7 +2,7 @@ package Tarea2;
 
 public class Pizza {
     private String nombre;
-    private String[] ingredientes; // Arreglo fijo de 3 posiciones
+    private String[] ingredientes;
 
     public Pizza(String nombre, String ing1, String ing2, String ing3) {
         this.nombre = nombre;
