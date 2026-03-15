@@ -27,4 +27,4 @@ A continuación, se observa la recuperación de la pizza deshecha usando Rehacer
 ## Video de Sustentación Individual
 En el siguiente enlace explico la lógica de los métodos `push()` y `pop()` implementados manualmente, además de la prueba de ejecución del programa:
 
-**[Ver el video de sustentación aquí]([https://drive.google.com/file/d/1zdN3Zkt5_5V3LBdIdfDhoGBEEPZLnW-M/view?usp=sharing])**
+**[Ver el video de sustentación aquí](https://drive.google.com/file/d/1zdN3Zkt5_5V3LBdIdfDhoGBEEPZLnW-M/view?usp=sharing)**
