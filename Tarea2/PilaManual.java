@@ -8,18 +8,14 @@ public class PilaManual {
 
     public void push(Pizza pizza) {
         Nodo nuevoNodo = new Nodo(pizza);
-
         nuevoNodo.siguiente = cima;
-
         cima = nuevoNodo;
     }
-
     public Pizza pop() {
         if (isEmpty()) {
             return null;
         }
         Pizza pizzaExtraida = cima.pizza;
-        
         cima = cima.siguiente;
         return pizzaExtraida;
     }
